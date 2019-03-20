@@ -1,0 +1,104 @@
+
+html {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+button {
+    background-color: #000;
+    color: #FFF;
+    padding: 5px 10px;
+}
+
+input[type = "text"]
+{
+    padding: 5px 10px;
+}
+
+h2 {
+    padding: 2% 0;
+    font-weight:bold;
+}  
+
+
+ol,li {
+    display: inline-block;
+    padding: 0 3%;
+}
+
+hr {
+    margin: 0 2%;
+}
+
+header, footer {
+    background-color: #FFF;
+}
+
+.Mycolor {
+    background-color: #CFCFCF;
+    
+}
+
+#boxtoptobottom {
+    background-color:#26405B;
+    padding: 2% 42.74%;
+    
+    color: #FFF;
+    position: relative;
+    top: 1.5em;
+    right: 0.0em;
+}
+
+#RandomText {
+    position: relative;
+    bottom: 9.5em;
+    left: -0.7em;
+    padding-top: 2em;
+    padding-bottom: 2em;
+    padding-right: 0.2em;
+}
+
+.line {
+    display: inline-block;
+    padding: 0 5%;
+}
+
+.Box {
+    padding: 1% 0;
+    
+}
+.widthofdivision{
+    width:30%;
+    height: 13em;
+    display:inline-block;
+    
+    margin-right: 0.5rem;
+}
+
+.letters {
+    background-color: #FFF;
+}
+
+.Box2
+{
+    padding-bottom: 2em;
+    position: relative;
+    bottom: 1em;
+}
+
+.move {
+    position: relative;
+    bottom: 7em;
+}
+
+.division1, .division2
+{
+    padding-top: 3em;
+}
+
+.box {
+    background-color: #FFF;
+    padding: 1em;
+    position: relative;
+    bottom: 5.5em;
+}
